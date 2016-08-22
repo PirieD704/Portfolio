@@ -1,0 +1,20 @@
+body{
+	background-image: url("img/funkyBackground.jpg");
+}
+
+
+.container-fluid{
+	text-align: center;
+}
+
+.greeting{
+	margin-top: 450px;
+}
+
+.greeting-top{
+	font-size: 42px;
+}
+
+.greeting-bottom{
+	font-size: 30px;
+}
